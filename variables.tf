@@ -1,0 +1,12 @@
+variable "project" {}
+variable "region" {}
+variable "zone" {}
+variable "credentials" {}
+variable "pub-subnet" {}
+variable "prv-subnet" {}
+variable "vpc-network" {}
+variable "app-template" {}
+variable "app-name" {}
+variable "centos-7" {}
+variable "app-script-path" {}
+variable "db-script-path" {}
